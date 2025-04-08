@@ -36,7 +36,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-primary relative overflow-hidden">
+    <div className="w-full min-h-screen bg-primary relative overflow-hidden p-0 m-0">
       {/* Background gradient effect */}
       <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-secondary/20" />
       
